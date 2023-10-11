@@ -29,7 +29,7 @@ sap.ui.define([
                                         name: "sap.se.mi.plm.lib.attachmentservice.attachment",
                                         id: "attachmentsrv.TestComponent1",
                                         settings: {
-                                            mode: "D", //owner._mode,
+                                            mode: "C", //owner._mode,
                                             objectKey: "1", //owner._objectKey,
                                             objectType: "ZOBJTEST1", //owner._objectType,
                                             semanticObject: "attachment", //owner._semanticObject,
